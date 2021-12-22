@@ -7,6 +7,7 @@ import android.view.ViewGroup
 import android.widget.TextView
 import androidx.recyclerview.widget.RecyclerView
 import androidx.recyclerview.widget.RecyclerView.Adapter
+import com.example.keepi.model.Note
 
 
 class NoteListAdapter(private val notes: List<Note>,
@@ -33,8 +34,7 @@ class NoteListAdapter(private val notes: List<Note>,
     override fun onBindViewHolder(holder: ViewHolder, position: Int) {
         val note = notes[position]
         holder?.let {
-            it.title.text = note.title
-            it.description.text = note.description
+            it.bindView(note)
         }
     }
 
