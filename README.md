@@ -18,7 +18,7 @@
 </p>
 
 ### 🚀 Objetivo - Consumir API de um server.
-![gif align="center"](https://user-images.githubusercontent.com/60098547/145687280-5fff8020-0da9-4b2d-8220-35c581d6e66e.gif)
+<img src="https://imgur.com/a/y7Xoaf4" />
 
 Ideal por cima do projeto.
 =================
