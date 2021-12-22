@@ -18,7 +18,10 @@
 </p>
 
 ### 🚀 Objetivo - Consumir API de um server.
-<img src="https://imgur.com/a/y7Xoaf4" />
+<p align="left">
+  <img src="https://i.imgur.com/yjtIcgy.png" width="350" title="Keepi Android">
+</p>
+
 
 Ideal por cima do projeto.
 =================
